@@ -1,0 +1,7 @@
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\bin\Release\Connect4QLearning.exe.config
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\bin\Release\Connect4QLearning.exe
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\bin\Release\Connect4QLearning.pdb
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Release\Connect4QLearning.csproj.CoreCompileInputs.cache
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Release\Connect4QLearning.exe
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Release\Connect4QLearning.pdb
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Release\Connect4QLearning.csprojAssemblyReference.cache

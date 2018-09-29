@@ -1,0 +1,14 @@
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\bin\Debug\Connect4QLearning.exe.config
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\bin\Debug\Connect4QLearning.exe
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\bin\Debug\Connect4QLearning.pdb
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Debug\Connect4QLearning.csprojAssemblyReference.cache
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Debug\Connect4QLearning.csproj.CoreCompileInputs.cache
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Debug\Connect4QLearning.exe
+C:\Users\ArianaGrande\source\repos\Connect4QLearning\Connect4QLearning\obj\Debug\Connect4QLearning.pdb
+D:\git\HearthstoneQLearn\Connect4QLearning\bin\Debug\Connect4QLearning.exe.config
+D:\git\HearthstoneQLearn\Connect4QLearning\bin\Debug\Connect4QLearning.exe
+D:\git\HearthstoneQLearn\Connect4QLearning\bin\Debug\Connect4QLearning.pdb
+D:\git\HearthstoneQLearn\Connect4QLearning\obj\Debug\Connect4QLearning.csprojAssemblyReference.cache
+D:\git\HearthstoneQLearn\Connect4QLearning\obj\Debug\Connect4QLearning.csproj.CoreCompileInputs.cache
+D:\git\HearthstoneQLearn\Connect4QLearning\obj\Debug\Connect4QLearning.exe
+D:\git\HearthstoneQLearn\Connect4QLearning\obj\Debug\Connect4QLearning.pdb
